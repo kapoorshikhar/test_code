@@ -1,7 +1,6 @@
 import os
 import shutil
 
-# List of files to delete
 files_to_delete = ['descriptions.txt', 'titles.txt', 'image_urls.txt']
 
 for file_path in files_to_delete:
